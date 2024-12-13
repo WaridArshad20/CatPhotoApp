@@ -1,3 +1,26 @@
 body {
   background-color: lightgreen;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+.marginTop {
+  margin-top: 10px;
+}
+
+#input-url {
+  font-size: 18px;
+  padding: 3px;
+}
+
+#submit-button {
+  background-color: green;
+  color: white;
+  font-weight: bold;
+  padding: 8px 16px;
+  border: none;
+  cursor: pointer;
+}
+
+.underline {
+  border-bottom: 1px solid black;
 }
